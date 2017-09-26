@@ -6,6 +6,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	Hello World! Just test pushing into Github.
+	Hello World!
 </body>
 </html>
