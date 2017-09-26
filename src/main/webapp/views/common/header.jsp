@@ -1,12 +1,26 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Insert title here</title>
-</head>
-<body>
-
-</body>
-</html>
+<%@ include file="/views/common/common.jsp"%>
+<header>
+	<nav class="navbar navbar-toggleable-md navbar-light bg-faded">
+		<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<a class="navbar-brand" href="#">Duong Nguyen</a>
+	
+		<div class="collapse navbar-collapse" id="navbarSupportedContent">
+			<ul class="navbar-nav mr-auto">
+				<li class="nav-item active">
+					<a class="nav-link" href="<c:url value="/" />">Home</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="<c:url value="/page-directive" />">Page Directive</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="<c:url value="/jsp-include" />">JSP Include</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="<c:url value="/java-bean" />">Java Bean</a>
+				</li>
+			</ul>
+		</div>
+	</nav>
+</header>
