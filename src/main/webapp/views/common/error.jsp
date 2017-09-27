@@ -20,7 +20,7 @@
 			</div>
 			<div class="col-9 page-content">
 				<h1 class="page-title">OOOPS! Something wrong.</h1>
-				<p><%= exception.getMessage() %></p>
+				<p><%= exception.toString() %></p>
 			</div>
 		</div>
 
