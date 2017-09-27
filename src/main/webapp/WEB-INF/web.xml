@@ -17,7 +17,7 @@
 		</init-param>
 		<init-param>
 			<param-name>db-connection</param-name>
-			<param-value>jdbc:sqlserver://10.0.0.16:1433;databaseName=dev_db;</param-value>
+			<param-value>jdbc:sqlserver://admin.hypertech.com.vn:1433;databaseName=dev_db;</param-value>
 		</init-param>
 		<init-param>
 			<param-name>db-username</param-name>

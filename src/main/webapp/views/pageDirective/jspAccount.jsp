@@ -3,7 +3,7 @@
 <%@ page import="io.cobra.javaweb.dto.AccountDto" %>
 <%@ page import="io.cobra.javaweb.model.AccountModel" %>
 
-<%! AccountModel accountModel = new AccountModel("com.microsoft.sqlserver.jdbc.SQLServerDriver", "jdbc:sqlserver://10.0.0.16:1433;databaseName=dev_db;", "dev", "dev"); %>
+<%! AccountModel accountModel = new AccountModel("com.microsoft.sqlserver.jdbc.SQLServerDriver", "jdbc:sqlserver://admin.hypertech.com.vn:1433;databaseName=dev_db;", "dev", "dev"); %>
 <!DOCTYPE html>
 <html>
 <head>

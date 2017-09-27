@@ -3,7 +3,7 @@
 	<div class="list-group">
 		<a href="<c:url value="/page-directive" />" class="list-group-item list-group-item-action">Page Directive</a>
 		<a href="<c:url value="/jsp-include" />" class="list-group-item list-group-item-action">JSP Include</a>
-		<a href="<c:url value="/java-bean" />" class="list-group-item list-group-item-action">Java Bean</a>
+		<a href="<c:url value="/views/javaBean/sample.jsp" />" class="list-group-item list-group-item-action">Java Bean</a>
 	</div>
 </c:if>
 <c:if test="${param.current == 'page-directive'}">
