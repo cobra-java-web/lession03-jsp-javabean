@@ -8,8 +8,8 @@
 		<maven.compiler.source>1.8</maven.compiler.source>
 	</properties>
 
-	<groupId>io.cobra.javaweb</groupId>
-	<artifactId>lesson3-jsp-javabean</artifactId>
+	<groupId>io.cobrafw.javaweb</groupId>
+	<artifactId>lesson4-jsp-javabean</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 
