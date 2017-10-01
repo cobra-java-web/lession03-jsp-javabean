@@ -1,4 +1,4 @@
-package io.cobra.javaweb.bean;
+package io.cobrafw.javaweb.bean;
 
 /**
  * Sample Bean

@@ -10,7 +10,7 @@
 		<servlet-name>PageDirectiveController</servlet-name>
 		<display-name>PageDirectiveController</display-name>
 		<description></description>
-		<servlet-class>io.cobra.javaweb.controllers.PageDirectiveController</servlet-class>
+		<servlet-class>io.cobrafw.javaweb.controllers.PageDirectiveController</servlet-class>
 		<init-param>
 			<param-name>db-driver</param-name>
 			<param-value>com.microsoft.sqlserver.jdbc.SQLServerDriver</param-value>

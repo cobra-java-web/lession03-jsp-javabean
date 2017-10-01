@@ -1,4 +1,4 @@
-package io.cobra.javaweb.dto;
+package io.cobrafw.javaweb.dto;
 
 import java.util.Date;
 

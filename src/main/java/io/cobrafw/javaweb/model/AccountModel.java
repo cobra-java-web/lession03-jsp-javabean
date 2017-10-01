@@ -1,4 +1,4 @@
-package io.cobra.javaweb.model;
+package io.cobrafw.javaweb.model;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -8,7 +8,7 @@ import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.List;
 
-import io.cobra.javaweb.dto.AccountDto;
+import io.cobrafw.javaweb.dto.AccountDto;
 
 /**
  * Account Model

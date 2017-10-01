@@ -1,4 +1,4 @@
-package io.cobra.javaweb.controllers;
+package io.cobrafw.javaweb.controllers;
 
 import java.io.IOException;
 import java.util.List;
@@ -11,8 +11,8 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import io.cobra.javaweb.dto.AccountDto;
-import io.cobra.javaweb.model.AccountModel;
+import io.cobrafw.javaweb.dto.AccountDto;
+import io.cobrafw.javaweb.model.AccountModel;
 
 /**
  * Servlet implementation class PageDirectiveController

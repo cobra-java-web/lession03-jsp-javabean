@@ -1,7 +1,7 @@
 <%@include file="/views/common/common.jsp"%>
 <%@ page import="java.util.List" %>
-<%@ page import="io.cobra.javaweb.dto.AccountDto" %>
-<%@ page import="io.cobra.javaweb.model.AccountModel" %>
+<%@ page import="io.cobrafw.javaweb.dto.AccountDto" %>
+<%@ page import="io.cobrafw.javaweb.model.AccountModel" %>
 
 <%! AccountModel accountModel = new AccountModel("com.microsoft.sqlserver.jdbc.SQLServerDriver", "jdbc:sqlserver://admin.hypertech.com.vn:1433;databaseName=dev_db;", "aa", "aa"); %>
 <!DOCTYPE html>

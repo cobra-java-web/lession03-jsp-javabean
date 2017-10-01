@@ -5,7 +5,7 @@
 	<%@include file="/views/common/head.jsp"%>
 	<title>Lesson 03 - Java Bean Sample</title>
 </head>
-<jsp:useBean id="samplebean" class="io.cobra.javaweb.bean.SampleBean" scope="page">
+<jsp:useBean id="samplebean" class="io.cobrafw.javaweb.bean.SampleBean" scope="page">
 	<jsp:setProperty name="samplebean" property="name" value="Nguyen Van Duong" />
 	<jsp:setProperty name="samplebean" property="age" value="27" />
 	<jsp:setProperty name="samplebean" property="married" value="true" />
