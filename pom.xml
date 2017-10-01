@@ -55,6 +55,6 @@
 	</dependencies>
 
 	<build>
-		<finalName>lesson3-jsp-javabean</finalName>
+		<finalName>lesson4-jsp-javabean</finalName>
 	</build>
 </project>
