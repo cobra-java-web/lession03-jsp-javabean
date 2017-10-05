@@ -9,7 +9,7 @@
 	</properties>
 
 	<groupId>io.cobrafw.javaweb</groupId>
-	<artifactId>lesson4-jsp-javabean</artifactId>
+	<artifactId>lesson04-jsp-javabean</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 
